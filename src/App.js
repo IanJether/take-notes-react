@@ -11,18 +11,7 @@ function App() {
 
 
   const [notes,setNotes] = useState([
-    {
-      id: nanoid(),
-      text:"This is my first todo"
-    },
-    {
-      id: nanoid(),
-      text:"This is my second todo"
-    },
-    {
-      id: nanoid(),
-      text:"This is my third todo"
-    },
+   
   ])
 
 
